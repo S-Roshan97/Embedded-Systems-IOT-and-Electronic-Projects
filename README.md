@@ -2,7 +2,7 @@
 
 A collection of **Embedded Systems, IoT, and Electronics Projects** focused on sensors, automation, robotics, and real-world hardware applications.
 
-This repository demonstrates practical implementations using Arduino, ESP32, Raspberry Pi Pico, MicroPython, and various sensor modules — along with circuit designs and code examples suitable for beginners, hobbyists, and electronics enthusiasts.
+This repository demonstrates practical implementations using Arduino, ESP32, Raspberry Pi Pico, MicroPython, and various sensor modules along with circuit designs and code examples suitable for beginners, hobbyists, and electronics enthusiasts.
 
 ---
 
