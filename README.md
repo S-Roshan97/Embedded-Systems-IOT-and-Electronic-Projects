@@ -35,7 +35,7 @@ Detects hand gestures (UP, DOWN, LEFT, RIGHT) using the APDS9960 sensor and disp
 
 - **Input:** 8 push buttons (pins 2–9)
 - **Output:** Passive buzzer (pin 12)
-
+- 📺 [YouTube Demo](https://youtu.be/06Rq1RGhpWU) | [YouTube Short](https://youtube.com/shorts/JSEkytrmLVA)
 ---
 
 ### ❤️ 4. Pulse Sensor Heart Rate Monitor
@@ -57,7 +57,7 @@ Real-time distance measurement using HC-SR04 ultrasonic sensor displayed on a 16
 - **Sensor:** HC-SR04 (via `NewPing`)
 - **Display:** I2C 16×2 LCD
 - **Libraries:** `NewPing`, `LiquidCrystal_I2C`
-
+- 📺 [YouTube Short](https://youtube.com/shorts/bBxnLQvbaG0)
 ---
 
 ### ☀️ 6. SI1145 UV Index Monitor
@@ -112,7 +112,7 @@ FastLED DemoReel100 demo showcasing multiple animation patterns (rainbow, confet
 
 - **Hardware:** WS2812 LED strip (24 LEDs, data pin 6)
 - **Libraries:** `FastLED`
-
+- 📺 [YouTube Demo](https://youtu.be/DnxqZIJVdlY) | [YouTube Short](https://youtube.com/shorts/mMDOVgRf-oI)
 ---
 
 ### 🔐 11. Touch-Based Door Lock System
@@ -166,7 +166,7 @@ Reads gas concentration from an MQ-6 sensor on an Arduino Nano. Triggers a red L
 - **Sensor:** MQ-6 Gas Sensor (analog, pin A5)
 - **Output:** Red LED, Blue LED, Buzzer
 - **Platform:** Arduino Nano
-
+- 📺 [YouTube Demo](https://youtu.be/0ABA6yWKrqg) | [YouTube Short](https://youtube.com/shorts/ZfMWmnTh7rs)
 ---
 
 ### 🚨 16. Ultrasonic Distance Alarm System
@@ -208,6 +208,7 @@ Classic back-and-forth scanning LED effect across 10 LEDs, mimicking the iconic 
 
 - **Output:** 10 LEDs (pins 2–11)
 
+- 📺 [YouTube Demo](https://youtu.be/I2Fg3YVMz-c) | [YouTube Short](https://youtube.com/shorts/lhwtGkRDiTU)
 ---
 
 ### 📊 20. Raspberry Pi Pico – Real-Time Distance Visualizer (MicroPython)
