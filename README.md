@@ -272,36 +272,6 @@ MicroPython project for the Raspberry Pi Pico. Measures distance with HC-SR04 an
 
 ---
 
-## 📁 Repository Structure
-
-```
-📦 Repository Root
- ┣ 📂 10-LED-Random-Flicker-Arduino
- ┣ 📂 APDS9960-Gesture-Recognition-with-20x4LCD
- ┣ 📂 Arduino Piano with Arduino
- ┣ 📂 Arduino-Pulse-Sensor-Heart-Rate-BPM-Monitor
- ┣ 📂 Arduino-Real-Time-Distance-Display-System
- ┣ 📂 Arduino-SI1145UV-Index-Monitor
- ┣ 📂 BMP280-with-LCD-Temperature-Pressure-Altitude-Monitor
- ┣ 📂 BMx280-I2C-LCD20x4-Weather-Station
- ┣ 📂 Create-A-Simple-ESP32-Web-Server-LED-Fan-Control
- ┣ 📂 DemoReel100_WS2812 with Arduino
- ┣ 📂 Door-lock-with-Touch-sensor-with-LCD-status
- ┣ 📂 ESP32-C3-WiFi-Web-Server-Smart-Control-System
- ┣ 📂 ESP32-WiFi-Scanner-with-SSD1306-OLED-Display
- ┣ 📂 Fire-Alarm-System-with-IR-Sensor
- ┣ 📂 Gas-Leakage-Detector-Alarm-System-Using-Arduino-Nano
- ┣ 📂 HC-SR04-Ultrasonic-Distance-Alarm-System
- ┣ 📂 HC-SR04-Ultrasonic-Servo-Control-System
- ┣ 📂 IR-Remote-Servo-Control-System
- ┣ 📂 Knight-Rider-LED-Scanner-Effect
- ┣ 📂 Rasberry-pico-Real-Time-Distance-Measurement with-SSD1306 OLED
- ┣ 📂 TCS34725-Color-Sensor-with-RGB-LED
- ┗ 📂 TCS34725RGB-Color-Sensor-with-Lux-Measurement-Arduino
-```
-
----
-
 ## 🎯 Purpose of This Repository
 
 This repository is created for:
