@@ -123,7 +123,7 @@ This repository demonstrates practical implementations using Arduino, ESP32, Mic
 
 ---
 
-## 🌐 13. ESP32 / IoT Web Control System (NEW)
+## 🌐 13. ESP32 / IoT Web Control System 
 - **Platform:** ESP32  
 - **Features:**
   - WiFi Access Point mode
@@ -140,7 +140,7 @@ This repository demonstrates practical implementations using Arduino, ESP32, Mic
 
 ---
 
-## 📊 15. MicroPython Smart Distance Visualizer (NEW)
+## 📊 15. MicroPython Smart Distance Visualizer 
 - **Platform:** ESP32 + MicroPython  
 - **Sensors:**
   - HC-SR04 Ultrasonic Sensor  
