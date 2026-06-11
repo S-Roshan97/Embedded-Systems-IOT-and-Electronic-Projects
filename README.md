@@ -2,7 +2,7 @@
 
 A collection of my **Embedded Systems, IoT, and Electronics Projects** focused on sensors, automation, robotics, and real-world hardware applications.
 
-This repository demonstrates practical implementations using Arduino and sensor modules, along with circuit designs and code examples useful for beginners, hobbyists, and electronics enthusiasts.
+This repository demonstrates practical implementations using Arduino, ESP32, MicroPython, and various sensor modules, along with circuit designs and code examples useful for beginners, hobbyists, and electronics enthusiasts.
 
 ---
 
@@ -123,8 +123,38 @@ This repository demonstrates practical implementations using Arduino and sensor 
 
 ---
 
+## 🌐 13. ESP32 / IoT Web Control System (NEW)
+- **Platform:** ESP32  
+- **Features:**
+  - WiFi Access Point mode
+  - Web-based LED & Relay control
+- **Use Case:**
+  - Smart home automation system  
+
+---
+
+## 📶 14. ESP32 WiFi Scanner (NEW)
+- Scans nearby WiFi networks  
+- Displays SSID + signal strength (RSSI)  
+- Output on OLED display (SSD1306)  
+
+---
+
+## 📊 15. MicroPython Smart Distance Visualizer (NEW)
+- **Platform:** ESP32 + MicroPython  
+- **Sensors:**
+  - HC-SR04 Ultrasonic Sensor  
+- **Display:**
+  - SSD1306 OLED  
+- **Features:**
+  - Real-time distance measurement
+  - Animated bar graph visualization  
+
+---
+
 # 🧰 Components Used
 - Arduino UNO / Nano  
+- ESP32 / ESP32 Super Mini  
 - BMP280 / BME280 Sensor  
 - TCS34725 Color Sensor  
 - SI1145 UV Sensor  
@@ -132,7 +162,9 @@ This repository demonstrates practical implementations using Arduino and sensor 
 - APDS9960 Gesture Sensor  
 - IR Receiver Module  
 - Servo Motor  
+- Relay Module  
 - Buzzer  
+- OLED SSD1306 Display  
 - I2C LCD Display (16×2 / 20×4)  
 - LEDs, resistors, breadboard  
 
@@ -140,10 +172,13 @@ This repository demonstrates practical implementations using Arduino and sensor 
 
 # 🛠️ Technologies Used
 - Arduino C / C++  
+- MicroPython  
 - Embedded Systems  
+- IoT Development  
 - Sensor Interfacing  
 - I2C Communication  
 - PWM Control  
+- Web Server Programming (ESP32)  
 - Serial Communication  
 
 ---
@@ -151,29 +186,31 @@ This repository demonstrates practical implementations using Arduino and sensor 
 # 📸 Project Highlights
 - Real-time sensor monitoring  
 - Interactive hardware control  
-- Automation systems  
-- Beginner to advanced Arduino projects  
-- Practical embedded applications  
+- IoT-based automation systems  
+- Wireless communication projects  
+- Beginner to advanced embedded systems  
+- Practical real-world applications  
 
 ---
 
 # 🎯 Purpose of This Repository
 This repository is created for:
 
-- Learning Arduino and Embedded Systems  
-- Sensor integration practice  
-- Automation and IoT development  
-- Portfolio showcase for electronics projects  
+- Learning Embedded Systems & IoT development  
+- Sensor integration and hardware interfacing  
+- Automation and smart system design  
+- Portfolio showcase for electronics engineering projects  
 
 ---
 
 # 🚀 Future Improvements
-- ESP32 IoT dashboard integration  
+- Cloud IoT integration (Firebase / MQTT)  
 - Mobile app control (Bluetooth / WiFi)  
-- Cloud data logging  
-- Real-time graphs and analytics  
+- Real-time data dashboards  
+- AI-based sensor analysis  
+- Advanced robotics projects  
 
 ---
 
 # 👨‍💻 Author
-**Arduino Projects Collection by Sivasangar Roshan**
+**Arduino & Embedded Systems Projects by Sivasangar Roshan**
